@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of DiscoGit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.therelicans.com%2Frado_mayank%2Fcollection-of-github-octocats-for-your-profile-4fhe&psig=AOvVaw2Z92kEkvdWl5Y-ZC_p8x6u&ust=1630024404818000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC9tq64zfICFQAAAAAdAAAAABAN)
